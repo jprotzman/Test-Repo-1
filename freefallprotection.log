@@ -1,2 +1,7 @@
 12-19-2013, 21:31:09: ReturnCode: 0
+<<<<<<< HEAD
 Test 456
+=======
+Test 123
+Test 456
+>>>>>>> origin/master
