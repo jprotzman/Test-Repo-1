@@ -1,0 +1,35 @@
+12-19-2013, 21:12:32: -------------------------------------------------------------
+12-19-2013, 21:12:32: ST Microelectronics Free Fall Protection Installer
+12-19-2013, 21:12:32: Version: 2.00.10.33, OS: Unknown OS
+12-19-2013, 21:12:32: Mode: Install 2.00.10.33
+12-19-2013, 21:12:32: Features Selection: Default
+12-19-2013, 21:12:32: Checked no pending reboots, continuing...
+12-19-2013, 21:12:39: Cleaning up old installations
+12-19-2013, 21:12:39: Checking Registry
+12-19-2013, 21:12:41: Done
+12-19-2013, 21:12:41: Checking files
+12-19-2013, 21:12:41: Done
+12-19-2013, 21:12:41: Cleanup of old installations completed
+12-19-2013, 21:12:41: Starting Installion of Drivers
+12-19-2013, 21:12:41: Sensor detected: SMO8800, intalling driver...
+12-19-2013, 21:13:25: DIFxDriverPackageInstall succeeded and returned 0
+12-19-2013, 21:13:25: Added driver 1.0.0.19 to registry
+12-19-2013, 21:13:25: Driver installation completed
+12-19-2013, 21:13:25: Done Installing Drivers
+12-19-2013, 21:13:28: Installing Free Fall Protection Application ...
+12-19-2013, 21:13:28: Added ff_protection 2.0.0.6 to registry
+12-19-2013, 21:13:28: Done
+12-19-2013, 21:13:28: Adding OEM registry entries ...
+12-19-2013, 21:13:29: Done
+12-19-2013, 21:13:29: Applying Registry patch ...
+12-19-2013, 21:13:29: Done
+12-19-2013, 21:13:29: OEM inventory data written to the registry
+12-19-2013, 21:13:29: Marked reboot pending
+12-19-2013, 21:14:26: ReturnCode: 3010
+12-19-2013, 21:31:09: -------------------------------------------------------------
+12-19-2013, 21:31:09: ST Microelectronics Free Fall Protection Installer
+12-19-2013, 21:31:09: Version: 2.00.10.33, OS: Unknown OS
+12-19-2013, 21:31:09: Mode: Complete 2.00.10.33
+12-19-2013, 21:31:09: Continuing with installation...
+12-19-2013, 21:31:09: Done
+12-19-2013, 21:31:09: ReturnCode: 0
